@@ -120,9 +120,10 @@
     border: 1px solid #ddd;
     padding: 10px;
     border-radius: 4px;
-    background-color: #f9f9f9;
+    background-color: #be29ec;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
-  
+    
   .comment-list-container::-webkit-scrollbar {
     width: 8px;
   }
